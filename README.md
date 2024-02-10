@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dexternjr
 - 👀 I’m interested in Cloud Computing, DevOps, mobile and web app development 
-- 🌱 I’m currently learning Cloud Computing (GCP)
+- 🌱 I’m currently learning Cloud Computing (GCP and AWS)
+- i am a certified GCP associate cloud engineer
 - 💞️ I’m looking to collaborate on Related topics 
 - 📫 How to reach me +237691655059
 
